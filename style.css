@@ -2,3 +2,6 @@ body {
     background-image: Line pattern.jpg; 
     background-repeat: repeat-x;
 }
+nav {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
