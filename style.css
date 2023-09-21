@@ -1,4 +1,4 @@
-html {
-    background-image: Line pattern.jpg ();
+body {
+    background-image: Line pattern.jpg; 
     background-repeat: repeat-x;
 }
