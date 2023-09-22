@@ -6,6 +6,9 @@ menu {
     font-family:Arial, Helvetica, sans-serif;
 }
 
+h2 {
+
+}
 ul {
     list-style-type: none;
     margin: 0;
@@ -14,6 +17,12 @@ ul {
 
 li{
     display: inline;
+    float: none;
+}
+a {
+    padding: 20px;
+    background-color: rgb(189, 212, 255);
+
 }
 
 li:hover {
