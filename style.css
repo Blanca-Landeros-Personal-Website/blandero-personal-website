@@ -2,13 +2,14 @@
 Beginning with customizing the Nav bar to be horizonal insead of vertical*/
 
 menu {
-    font-size: x-large;
+    font-size: xx-large;
     font-family:Arial, Helvetica, sans-serif;
 }
 
 h2 {
 
 }
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -20,7 +21,7 @@ li{
     float: none;
 }
 a {
-    padding: 20px;
+    padding: 15px;
     background-color: rgb(189, 212, 255);
 
 }
