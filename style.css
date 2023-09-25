@@ -17,8 +17,18 @@ menu {
 }
 
 a:hover {
-  background-color: cadetblue;
+  background-color: cadetblue; 
 }
+a:hover, a:active {
+    color: red;
+}
+
+a {
+        padding: 15px;
+        background-color: rgb(189, 212, 255);
+    
+}
+
 
 ul {
     list-style-type: none;
@@ -30,11 +40,7 @@ li{
     display: inline;
     float: none;
 }
-a {
-    padding: 15px;
-    background-color: rgb(189, 212, 255);
 
-}
 /*First atteempt to adding a repeating background image*/
 body {
     background-image: Line pattern.jpg; 
